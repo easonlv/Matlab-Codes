@@ -1,4 +1,4 @@
-matlab
+Matlab Codes
 ======
 
-Some function in Matlab for Machine Learning
+Some functions in Matlab for Machine Learning
